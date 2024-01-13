@@ -47,7 +47,7 @@
   <header>
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark p-3">
       <div class="container">
-        <a class="navbar-brand" href="#">Pemrograman Web: 2101020018 Andrian</a>
+        <a class="navbar-brand" href="#">Pemrograman Web: 2101020015 Wanna</a>
       </div>
     </nav>
   </header>
